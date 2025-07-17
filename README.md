@@ -46,18 +46,8 @@ The Wild Rescues website is a multi-page, responsive web application for a ficti
 
 - **Student**: Jarren Bess
 - **Course**: WEB-200
-- **Development Period**: May - June 2025
+- **Development Period**: May - July 2025
 - **Institution**: Bellevue University
-
-## Mission Statement
-
-"Our mission is to rescue, rehabilitate, and release wildlife back into their natural environment. We are a nonprofit organization dedicated to helping injured wildlife."
-
-## Contact
-
-For more information about Wild Rescues:
-- Email: contact@wildrescues.net
-- Website: Features contact form and partnership opportunities
 
 ---
 
